@@ -2,7 +2,7 @@
 Docker project
 
 **In my project i have used two container which are Nextcloud and PostgreSQL.
-I linked each other using Docker.**
+I linked each other using Docker**
 
 What is Docker compose ?
 
